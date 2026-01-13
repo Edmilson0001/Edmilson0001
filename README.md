@@ -14,11 +14,9 @@
 
 ##
 
-<div>
-  <a href="https://github.com/Edmilson0001"> 
-    <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Edmilson0001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilson0001&layout=compact&langs_count=16&theme=dark"/>
-  </a>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Edmilson0001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilson0001&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
