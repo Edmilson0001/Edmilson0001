@@ -47,4 +47,4 @@
 ##
 
 
-![Snake animation](https://github.com/Edmilson0001/Edmilson0001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Edmilson0001/Edmilson0001/output/github-contribution-grid-snake.svg)
